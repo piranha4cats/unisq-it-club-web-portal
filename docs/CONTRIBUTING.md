@@ -22,9 +22,8 @@ To keep collaboration smooth and protect the project, we follow a simple branchi
 First, check your email or GitHub notifications and accept the repository invitation. Once you are in, open your terminal (or VS Code) and download the code to your machine:
 
 ```bash
-git clone [https://github.com/piranha4cats/unisq-it-club-web-portal.git](https://github.com/piranha4cats/unisq-it-club-web-portal.git)
+git clone https://github.com/piranha4cats/unisq-it-club-web-portal.git
 cd unisq-it-club-web-portal
-
 ```
 
 ### Step 2: Configure Primary Development Tools (VS Code)
