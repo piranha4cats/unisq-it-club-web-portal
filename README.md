@@ -15,19 +15,19 @@ This portal serves two distinct functions:
 
 ## 📁 Project Structure
 
-    unisq-it-club-web-portal/
-    ├── assets/                  # For embedded objects, Figma frames, and images
-    ├── css/
-    │   └── style.css            # Base HTML/CSS templates
-    ├── js/
-    │   ├── auth.js              # Supabase/Firebase @umail.usq.edu.au gate logic
-    │   └── main.js              # Vanilla JS / Alpine.js dynamic components
-    ├── blog.html                # Student journey and career aspiration blog
-    ├── dashboard.html           # Members-only hub for coordination
-    ├── index.html               # Public landing page
-    ├── login.html               # Authentication gate
-    ├── projects.html            # Public-facing showcase for club projects
-    └── README.md                
+unisq-it-club-web-portal/
+├── assets/                  # For embedded objects and Figma frames
+├── css/                     # Base HTML/CSS templates
+├── images/                  # For club logos and project photos
+├── js/                      # Vanilla JS and Auth scripts
+├── sketches/                # For raw UI/UX planning
+├── wireframes/              # For structured page layouts
+├── blog.html                
+├── dashboard.html           
+├── index.html               
+├── login.html               
+├── projects.html            
+└── README.md
 
 ## 🤝 Contributing & Workflow
 Our team utilizes an asynchronous-first development model[cite: 3]. We expect a time commitment of 2 to 4 hours per week per member[cite: 1, 3].
