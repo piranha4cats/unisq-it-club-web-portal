@@ -1,3 +1,4 @@
+
 # Contributing to the UniSQ IT Sandbox Club Web Portal
 
 Thank you for contributing to the UniSQ IT Sandbox Club Web Portal! This guide will help you get your local environment set up, adhere to our team’s coding standards, and submit pull requests cleanly.
