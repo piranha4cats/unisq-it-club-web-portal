@@ -14,20 +14,21 @@ This portal serves two distinct functions:
 * **Deployment & Version Control:** GitHub and GitHub Pages[cite: 3].
 
 ## 📁 Project Structure
-
+```
 unisq-it-club-web-portal/
-├── assets/                  # For embedded objects and Figma frames
-├── css/                     # Base HTML/CSS templates
-├── images/                  # For club logos and project photos
-├── js/                      # Vanilla JS and Auth scripts
-├── sketches/                # For raw UI/UX planning
-├── wireframes/              # For structured page layouts
-├── blog.html                
-├── dashboard.html           
-├── index.html               
-├── login.html               
-├── projects.html            
+├── assets/ # For embedded objects and Figma frames
+├── css/ # Base HTML/CSS templates
+├── images/ # For club logos and project photos
+├── js/ # Vanilla JS and Auth scripts
+├── sketches/ # For raw UI/UX planning
+├── wireframes/ # For structured page layouts
+├── blog.html 
+├── dashboard.html 
+├── index.html 
+├── login.html 
+├── projects.html 
 └── README.md
+```
 
 ## 🤝 Contributing & Workflow
 Our team utilizes an asynchronous-first development model[cite: 3]. We expect a time commitment of 2 to 4 hours per week per member[cite: 1, 3].
